@@ -12,7 +12,7 @@ There are two types of Memory.
 # COMPILATION PROCESS
  ### What is a compilation?
    The compilation is a process of converting the source code into object code. It is done with the help of the compiler. The compiler checks the source code for the        syntactical or structural errors, and if the source code is error-free, then it generates the object code.
-   *** IDE -> Integrated Development Environment . </br>
+   </br>  * IDE -> Integrated Development Environment . </br>
 The following are the phases through which our program passes before being transformed into an executable form: </br>
  * Preprocessor
  * Compiler
