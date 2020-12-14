@@ -20,6 +20,9 @@ The following are the phases through which our program passes before being trans
  * Linker </br>
  ![Diagram](https://static.javatpoint.com/cpages/images/compilation-process-in-c2.png)
  
+ ##### Variables and there Hideouts
+ ![Diagram](https://github.com/akshatprogrammer/Day-1/blob/main/Tailor%20Brands%20-%20Instant%20Logo%20Maker%20&%20Online%20Logo%20Design%20-%20Google%20Chrome%2012_14_2020%203_24_57%20PM.png?raw=true)
+ 
  # Physical and Logical Address 
  
  ## Physical Address
