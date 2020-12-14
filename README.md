@@ -6,6 +6,6 @@ There are two types of Memory.
   * Primary -> Data is directly accessible by processor .
                Internal.
   * Secondary -> Accessibility be using in I/O module.
-                 External.
-![Diagram](https://github.com/akshatprogrammer/Memory-Hierarchy/issues/1#issue-766194917) 
+                 External.</br>
+Click this to view -> ![Diagram](https://github.com/akshatprogrammer/Memory-Hierarchy/issues/1#issue-766194917) 
              
