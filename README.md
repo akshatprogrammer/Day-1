@@ -7,5 +7,5 @@ There are two types of Memory.
                Internal.
   * Secondary -> Accessibility be using in I/O module.
                  External.
-![alt text](https://github.com/akshatprogrammer/Memory-Hierarchy/issues/1#issue-766194917) 
+![Diagram](https://github.com/akshatprogrammer/Memory-Hierarchy/issues/1#issue-766194917) 
              
